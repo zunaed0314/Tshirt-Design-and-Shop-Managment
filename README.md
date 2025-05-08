@@ -108,5 +108,5 @@ QUERY IS FINISHED.
 10. If you log-in as a customer, you can design your tshirt in your own preferred color, icons and wordarts. Choose your preferred size and quantity.
 11. For buying thsirt from shop, shop must be authorized to sell their products online.
 12. While registering as a seller, a document must be submitted along with it so that the admin can confirm the legitimacy of the shop. If confirmed, the shop would appear for the customers and they can buy from there.
-13. Seller can add tshirt into his shop as per nstruction from the product manager.
+13. Seller can add tshirt into his shop as per instruction from the product manager.
 14. Customer then can buy the tshirt from that particular shop. 
