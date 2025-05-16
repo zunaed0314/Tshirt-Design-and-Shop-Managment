@@ -1,4 +1,4 @@
-1. Download Visual Studio Code for more better understanding.
+1. Download Visual Studio Code for better understanding of the codebase
 2. Download XAMPP.
 3. Keep the main project inside the "C:\xampp" directory
 4. Run 'XAMPP control pannel'. Start Apache and MySQL.
